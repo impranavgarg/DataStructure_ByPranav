@@ -4,12 +4,12 @@ import java.util.*;
 
 
 
-public class MinHeap<T extends Comparable<T>> {
+ public class Heap<T extends Comparable<T>> {
 
 
     private ArrayList<T> list;
 
-    public MinHeap(){
+    public Heap(){
         list =  new ArrayList<>();
     }
 
@@ -88,6 +88,21 @@ public class MinHeap<T extends Comparable<T>> {
         }
 
 
+    }
+
+
+    // heap sort
+    public ArrayList<T> heapsort() throws Exception {
+        ArrayList<T> data = new ArrayList<>();
+
+        while (!list.isEmpty()) {
+            data.add(this.remove());
+            
+        }
+
+
+        return data;
+        
     }
 
 
