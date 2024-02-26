@@ -15,6 +15,7 @@ Output: true
 Example 2:
 Input: s = "rat", t = "car"
 Output: false 
+
 */
 public class ValidAnagram {
     public boolean isAnagram(String s, String t) {
