@@ -93,7 +93,8 @@ To use the data structures in your Java project, you'll need the following tools
 Once you have the necessary tools installed, follow these steps:
 
 ## Clone the repository to your local machine
-### git clone https://github.com/impranavgarg/DataStructure_ByPranav.git
+
+git clone https://github.com/impranavgarg/DataStructure_ByPranav.git
 
 
 ## License
