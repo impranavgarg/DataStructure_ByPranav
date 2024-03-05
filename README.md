@@ -6,9 +6,9 @@ Welcome to the world of Java Data Structures! 🚀 This repository contains impl
 
 - [Overview](#overview-)
 - [Data Structures](#data-structures-)
-- [Installation](#installation-)
 - [Use of DSA and Benefits](#use-of-dsa-and-benefits-)
 - [Contributing](#contributing-)
+- [Installation](#installation-)
 - [License](#license-)
 - [Contact](#contact-)
 
