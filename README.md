@@ -7,7 +7,7 @@ This repository contains implementations of various data structures in Java.
 - [Overview](#overview)
 - [Data Structures](#data-structures)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Use of DSA and Benefits](#use-of-dsa-and-benefits)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -52,34 +52,6 @@ Arrays are the basic data structure provided by Java for storing a fixed-size se
 
 Graphs are non-linear data structures consisting of nodes (vertices) and edges that connect these nodes. Graphs can be directed or undirected and can have weighted or unweighted edges. Graph implementations support operations like adding/removing vertices and edges, traversal, and pathfinding algorithms like breadth-first search (BFS) and depth-first search (DFS).
 
-
-## Installation
-
-To use the data structures in your Java project, you'll need the following tools:
-
-1. **Java Development Kit (JDK):** Ensure that you have JDK installed on your system. You can download the latest version of JDK from the [official Oracle website](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) or use a package manager like `apt` or `brew`.
-
-2. **Git:** You'll need Git to clone the repository and manage version control. Install Git from the [official Git website](https://git-scm.com/downloads) or via package manager.
-
-3. **IDE (Integrated Development Environment):** While not strictly necessary, an IDE can greatly improve your development workflow. Popular choices include IntelliJ IDEA, Eclipse, and NetBeans. You can download and install an IDE of your choice from their respective websites or through package managers.
-
-Once you have the necessary tools installed, follow these steps:
-
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/impranavgarg/DataStructure_ByPranav.git
-
-## Usage
-
-To use the data structures in your Java project, follow these steps:
-
-1. Include the necessary Java files from the `src` directory into your project.
-
-2. Import the required data structure classes into your Java files.
-
-Modify the code according to the data structure you want to use and the operations you want to perform.
-
 ## Use of DSA and Benefits
 
 Data Structures and Algorithms (DSA) are essential components of computer science and software engineering. Here's why:
@@ -107,6 +79,22 @@ If you'd like to contribute to this project, please follow these guidelines:
 - Create a new Pull Request
 
 Please ensure that your code follows the coding standards and includes appropriate documentation and tests.
+
+## Installation
+
+To use the data structures in your Java project, you'll need the following tools:
+
+1. **Java Development Kit (JDK):** Ensure that you have JDK installed on your system. You can download the latest version of JDK from the [official Oracle website](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) or use a package manager like `apt` or `brew`.
+
+2. **Git:** You'll need Git to clone the repository and manage version control. Install Git from the [official Git website](https://git-scm.com/downloads) or via package manager.
+
+3. **IDE (Integrated Development Environment):** While not strictly necessary, an IDE can greatly improve your development workflow. Popular choices include IntelliJ IDEA, Eclipse, and NetBeans. You can download and install an IDE of your choice from their respective websites or through package managers.
+
+Once you have the necessary tools installed, follow these steps:
+
+# Clone the repository to your local machine
+git clone https://github.com/impranavgarg/DataStructure_ByPranav.git
+
 
 ## License
 
