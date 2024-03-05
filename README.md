@@ -4,7 +4,7 @@ Welcome to the world of Java Data Structures! 🚀 This repository contains impl
 
 ## Table of Contents 📚
 
-- [Overview](#overview)
+- [Overview 🌐](#overview)
 - [Data Structures](#data-structures)
 - [Installation](#installation)
 - [Use of DSA and Benefits](#use-of-dsa-and-benefits)
