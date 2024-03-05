@@ -40,11 +40,17 @@ A Binary Tree is a hierarchical data structure where each node has at most two c
 
 A Hash Table is a data structure that stores key-value pairs. It uses a hash function to compute an index where an element can be stored or retrieved efficiently. This implementation supports operations like insertion, deletion, and lookup.
 
-6. **ArrayList:** A dynamic array implementation that automatically resizes itself when necessary. It provides similar functionalities to arrays but allows dynamic resizing and more flexibility in terms of operations like insertion and deletion.
+### 6. ArrayList
 
-7. **Arrays:** The basic data structure provided by Java for storing a fixed-size sequential collection of elements of the same type. Arrays have a fixed length and can hold primitive data types as well as objects.
+An ArrayList is a dynamic array implementation that automatically resizes itself when necessary. It provides similar functionalities to arrays but allows dynamic resizing and more flexibility in terms of operations like insertion and deletion.
 
-8. **Graphs:** A non-linear data structure consisting of nodes (vertices) and edges that connect these nodes. Graphs can be directed or undirected and can have weighted or unweighted edges. Graph implementations support operations like adding/removing vertices and edges, traversal, and pathfinding algorithms like breadth-first search (BFS) and depth-first search (DFS).
+### 7. Arrays
+
+Arrays are the basic data structure provided by Java for storing a fixed-size sequential collection of elements of the same type. Arrays have a fixed length and can hold primitive data types as well as objects.
+
+### 8. Graphs
+
+Graphs are non-linear data structures consisting of nodes (vertices) and edges that connect these nodes. Graphs can be directed or undirected and can have weighted or unweighted edges. Graph implementations support operations like adding/removing vertices and edges, traversal, and pathfinding algorithms like breadth-first search (BFS) and depth-first search (DFS).
 
 
 ## Installation
