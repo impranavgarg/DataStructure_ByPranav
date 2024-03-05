@@ -4,7 +4,7 @@ Welcome to the world of Java Data Structures! 🚀 This repository contains impl
 
 ## Table of Contents 📚
 
-- [Overview](#overview)
+- [Overview](#overview-)
 - [Data Structures](#data-structures)
 - [Installation](#installation)
 - [Use of DSA and Benefits](#use-of-dsa-and-benefits)
@@ -13,7 +13,7 @@ Welcome to the world of Java Data Structures! 🚀 This repository contains impl
 - [Contact](#contact)
 
   
-## Overview
+## Overview 🌐
 
 Data structures are like the building blocks of software engineering, enabling us to manage and manipulate data efficiently. They're like the secret sauce that makes our algorithms perform their best! 🧩 This repository is here to provide you with implementations of some of the coolest and most essential data structures in Java, accompanied by examples and operations. Let's dive in and explore the world of data structures together! 🎉
 
