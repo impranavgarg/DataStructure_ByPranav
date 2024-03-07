@@ -51,6 +51,8 @@ Arrays are the OGs of data structures 🎯, providing a fixed-size sequential co
 
 Graphs are like social networks 🗺️🗺, with nodes representing users and edges representing connections. They can be directed or undirected, weighted or unweighted, and are perfect for modeling complex relationships.
 
+### 9. Trie 
+
 ## Use of DSA and Benefits 🚀
 
 Data Structures and Algorithms (DSA) are the backbone of computer science and software engineering. Here's why they're so crucial:
