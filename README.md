@@ -108,7 +108,7 @@ If you have any questions or suggestions regarding this project, feel free to co
 
 - 📩 Email: impranavgarg@gmail.com
 - 𝕏 Twitter: Comming Soon🚀
--
+- Instagram: Comming Soon🚀
 
 Happy Coding! 🎉
 
