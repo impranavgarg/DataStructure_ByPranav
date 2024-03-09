@@ -89,7 +89,7 @@ Let's gear up and get these data structures running on your machine! Here's what
 
 2. **Git:** You'll need Git for version control magic! If you don't have it yet, download it from the [official Git website](https://git-scm.com/downloads). 🐙
 
-3. **IDE (Integrated Development Environment):** While not mandatory, an IDE can make your life much easier! Choose from IntelliJ IDEA, Eclipse, or NetBeans, and get ready to code! 🚀
+3. **IDE (Integrated Development Environment):** While not mandatory, an IDE can make your life much easier! Choose from IntelliJ IDEA, Eclipse, or NetBeans, and get ready to code! 🚀🚀
 
 Once you have everything set up, it's time to clone the repository and embark on your coding journey! 💻
 
