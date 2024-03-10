@@ -2,6 +2,8 @@ package Trees;
 
 import java.util.Scanner;
 
+
+// binary treee
 public class BinaryTree {
     private static class  Node{
         int value;
