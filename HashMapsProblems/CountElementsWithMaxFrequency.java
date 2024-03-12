@@ -1,3 +1,4 @@
+package HashMapsProblems;
 
 
 /*
@@ -21,6 +22,9 @@ Explanation: All elements of the array have a frequency of 1 which is the maximu
 So the number of elements in the array with maximum frequency is 5.
 
 */
+
+import java.util.HashMap;
+import java.util.Map;
 
 public class CountElementsWithMaxFrequency{
   public int maxFrequencyElements(int[] nums) {
