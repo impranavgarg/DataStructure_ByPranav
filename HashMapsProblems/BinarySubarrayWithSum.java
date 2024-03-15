@@ -39,7 +39,7 @@ public class BinarySubarrayWithSum {
         return result;
     }
 
-    // alletrnate method without hashmap
+    // alletrnate method without using hashmap 
     /*
     public int numSubarraysWithSum(int[] nums, int goal) {
         int totalCount = 0;
