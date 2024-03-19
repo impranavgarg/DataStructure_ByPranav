@@ -1,6 +1,6 @@
 # 🌟 Data Structures in Java 🌟
 
-Welcome to the world of Java Data Structures! 🚀 This repository contains implementations of various data structures🧩 in Java.
+Welcome to the world of Java Data Structures! 🚀 This repository contains implementations of various data structures in Java.
 
 ## Table of Contents 📚
 
